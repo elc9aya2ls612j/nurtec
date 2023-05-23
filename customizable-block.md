@@ -1,1 +1,3 @@
-This is a standard site. These changes won't last.
+# this block can be overridden at the "custom" level
+
+And this is great
